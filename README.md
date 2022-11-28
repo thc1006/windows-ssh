@@ -2,7 +2,7 @@
 Windows SSH Auto Login vbscript
 
 ## 做法
-- 前提 Windows 系統中要有OpenSSH 伺服器 用戶端 (Openssh client)
+- 前提 Windows 系統中要有 OpenSSH 伺服器 用戶端 (Openssh client)
   - [安裝 OpenSSH -Microsoft](https://docs.microsoft.com/zh-tw/windows-server/administration/openssh/openssh_install_firstuse)
   - Windows 11：設定->應用程式->選用功能->新增選用功能-> OpenSSH 伺服器
 ## 做法
